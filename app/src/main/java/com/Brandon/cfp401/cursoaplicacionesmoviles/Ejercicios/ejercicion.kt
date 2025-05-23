@@ -1,4 +1,4 @@
-package com.Brandon.cfp401.cursoaplicacionesmoviles
+package com.Brandon.cfp401.cursoaplicacionesmoviles.Ejercicios
 
 fun main() {
     val edad = 666

@@ -1,4 +1,4 @@
-package com.Brandon.cfp401.cursoaplicacionesmoviles
+package com.Brandon.cfp401.cursoaplicacionesmoviles.sintaxsis
 
 fun main() {
     println(getMonth(4))

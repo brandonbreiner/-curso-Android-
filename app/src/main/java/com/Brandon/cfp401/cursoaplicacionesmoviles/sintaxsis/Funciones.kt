@@ -1,4 +1,4 @@
-package com.Brandon.cfp401.cursoaplicacionesmoviles
+package com.Brandon.cfp401.cursoaplicacionesmoviles.sintaxsis
 
 /*
     Una funcion es una caja negra que realiza una accion y nos devuelve  o no, un resultado.
