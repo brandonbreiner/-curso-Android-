@@ -98,6 +98,22 @@ fun ejercio9() {
     println("¡Adivinaste el número!  el primer logro de tu vida")
 }
 
+
+fun ejercio10(){
+
+    var contador: Int = 10
+    while (contador >= 0) {
+        println(contador)
+        contador--
+
+    }
+}
+
+
+
+
+
+
 fun main() {
     ejercio9()
 }
